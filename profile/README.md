@@ -15,8 +15,11 @@ Whether you're new to cloud development or moving existing cloud-aware applicati
 
 ## Order the book now
 
-[]()
+![Book Cover](https://raw.githubusercontent.com/building-cloud-native-apps/.github/main/profile/book-cover.jpeg)
 
+[Available at Amazon](https://www.amazon.com/gp/product/0137902530/) [Available at Pearson](https://www.informit.com/store/oracle-cloud-infrastructure-a-guide-to-building-cloud-9780137902538)
+
+Already acquired the book? [Register](https://www.informit.com/store/register.aspx?i=9780137902538) to access exclusive resources and updates
 <!--
 
 **Here are some ideas to get you started:**
