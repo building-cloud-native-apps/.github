@@ -1,4 +1,17 @@
-## Hi there 👋
+# BOOK: Oracle Cloud Infrastructure - A Guide to Building Cloud Native Applications
+
+Written by Oracle experts, Oracle Cloud Infrastructure thoroughly illuminates OCI features and tools for developing modern cloud-scale applications. Each feature is explored with relevant, practical examples, and the authors walk through integrating them into an abroad microservice-based, container-native application that fully leverages OCI. You won't just understand OCI services; you'll discover how to leverage them in nuanced ways to build, deploy, and manage modern cloud-native applications with exceptional performance, agility, and scalability. Coverage includes:
+
+* Automating and managing infrastructure with maximum efficiency and flexibility
+* Deploying cloud-native services on OCI
+* Using Oracle Container Engine for Kubernetes
+* Building and delivering serverless applications
+* Ensuring observability in OCI environments
+* Securing workloads and infrastructure
+* Optimizing CI/CD and automating deployment with DevOps/DevSecOps
+* Working with DNS, traffic management, and web application firewalls
+
+Whether you're new to cloud development or moving existing cloud-aware applications to Oracle, you'll find Oracle Cloud Infrastructure indispensable.
 
 <!--
 
