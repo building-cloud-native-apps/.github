@@ -1,17 +1,20 @@
 #
 
-Written by Oracle experts, Oracle Cloud Infrastructure thoroughly illuminates OCI features and tools for developing modern cloud-scale applications. Each feature is explored with relevant, practical examples, and the authors walk through integrating them into an abroad microservice-based, container-native application that fully leverages OCI. You won't just understand OCI services; you'll discover how to leverage them in nuanced ways to build, deploy, and manage modern cloud-native applications with exceptional performance, agility, and scalability. Coverage includes:
+Cloud native development is a modern approach to designing, building, deploying, and managing applications. This approach takes advantage of the benefits of utility computing from providers, such as Oracle Cloud Infrastructure (OCI), and emphasizes automation, elasticity, and resilience.
 
-* Automating and managing infrastructure with maximum efficiency and flexibility
-* Deploying cloud-native services on OCI
-* Using Oracle Container Engine for Kubernetes
-* Building and delivering serverless applications
-* Ensuring observability in OCI environments
-* Securing workloads and infrastructure
-* Optimizing CI/CD and automating deployment with DevOps/DevSecOps
-* Working with DNS, traffic management, and web application firewalls
+OCI is a next-generation cloud designed to run any application faster and more securely for less. It includes the tools used to build new cloud native applications and to run existing enterprise applications without rearchitecting them.
 
-Whether you're new to cloud development or moving existing cloud-aware applications to Oracle, you'll find Oracle Cloud Infrastructure indispensable.
+Whether you are new to the cloud or just new to OCI, this book provides an overview of the OCI services needed to build cloud native applications. You will learn
+
+* OCI concepts and terminology
+* How to manage Infrastructure as Code using modern tools and platforms
+* OCIs breadth of cloud native services
+* How to operate the managed Kubernetes service (Container Engine for Kubernetes) at scale
+* How to configure a cluster for advanced use cases, and use specialized hardware capabilities
+* How to use cloud native application deployment platforms and observability tools
+* How to secure applications, data, and the underlying infrastructure using open-source and OCI native security tools and processes
+
+The culmination of the book is an open-source sample application composed of microservices that incorporates the tools and concepts shared throughout the book and is available on GitHub.
 
 ## Order the book now
 
